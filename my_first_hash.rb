@@ -1,8 +1,8 @@
 def my_hash
   office_inventory = {
     "pens" => 40,
-    "sticky notes" => 10
-    "AA batteries" => 32
+    "sticky notes" => 10,
+    "AA batteries" => 32,
     "AAA batteries" => 8
   }
 end
