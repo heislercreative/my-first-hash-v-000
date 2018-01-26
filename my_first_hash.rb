@@ -1,7 +1,10 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  office_inventory = {
+    "pens" => 40,
+    "sticky notes" => 10
+    "AA batteries" => 32
+    "AAA batteries" => 8
+  }
 end
 
 
